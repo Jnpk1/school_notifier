@@ -17,7 +17,7 @@ link to website: `https://github.com/nalarkin/school_notifier`
 
 ## How to run the App:
 
-1. Have all requirements downloaded
+1. Run git clone https://github.com/nalarkin/school_notifier.git
 2. copy dependencies in `pubspec.yaml` file.
 3. In CLI, type`flutter pub get` to install required plugins that were listed in the new `pubspec.yaml file`
 4. To run android, in CLI type `flutter run`
