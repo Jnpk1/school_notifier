@@ -10,7 +10,7 @@ Git Clone: `https://github.com/Jnpk1/school_notifier.git`
  
  //If the user is taken to the login screen, click on Example Teacher button to be directed to the image uploader page.//  
  
-Once the app is loaded, click on the "Teacher Page" button located at the bottom of the list and this will take the user to a calendar page, with a button located at the bottom right of the screen labeled, "Add Picture". 
+Once the app is loaded, click on the "Teacher Page" button located at the bottom of the list and this will take the user to a calendar page; a button located at the bottom right of the screen labeled, "Add Picture", will be present. 
 
 ## Author: 
  - James Park
