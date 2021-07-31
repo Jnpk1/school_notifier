@@ -8,9 +8,15 @@ Git Clone: `https://github.com/Jnpk1/school_notifier.git`
 
  -Add a photo gateway to post pictures of assignments and graded assignments
  
- //If the user is taken to the login screen, click on Example Teacher button to be directed to the image uploader page.//  
+ //If the user is taken to the login screen, click on "Example Teacher" button to be directed to the image uploader page.//  
  
 Once the app is loaded, click on the "Teacher Page" button located at the bottom of the list and this will take the user to a calendar page; a button located at the bottom right of the screen labeled, "Add Picture", will be present. 
+After clicking, a screen will appear which looks like this:
+
+![Screenshot (247)](https://user-images.githubusercontent.com/55366454/127727087-4236c6f1-e6a6-4044-b1ce-42f7a85032d5.png)
+
+
+The user will click on the image(s) and press save to upload it to the Firebase Storage.
 
 ## Author: 
  - James Park
