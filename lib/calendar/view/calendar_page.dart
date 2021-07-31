@@ -2,6 +2,7 @@ import 'package:event_repository/event_repository.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:school_notifier/calendar/view/calendar_create_event_page.dart';
+import 'package:school_notifier/calendar/view/picture_add.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:school_notifier/authentication/authentication.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -113,12 +114,13 @@ class _CalendarPageState extends State<CalendarPage> {
         ),
       ),
       floatingActionButton: FloatingActionButton.extended(
-          label: Text("Add Event"),
-          icon: Icon(Icons.add),
+          label: Text("Add Picture"),
+          icon: Icon(Icons.camera_alt_outlined),
           onPressed: () {
-            Navigator.pushNamed(context, CalendarAddEventPage.routeName,
+            Navigator.pushNamed(context, PicturePage.routeName,
                 arguments: _focusedDate);
           }
+
           // showDialog(
           //     context: context,
           //     builder: (context) => AlertDialog(

@@ -1,6 +1,7 @@
 import 'package:flutter/widgets.dart';
 import 'package:school_notifier/app/app.dart';
 import 'package:school_notifier/calendar/calendar.dart';
+import 'package:school_notifier/calendar/view/picture_add.dart';
 import 'package:school_notifier/event_repository_test/event_page.dart';
 import 'package:school_notifier/home/home.dart';
 import 'package:school_notifier/key_stuff/key_page.dart';
@@ -37,5 +38,6 @@ Map<String, WidgetBuilder> allRoutes = <String, WidgetBuilder>{
   SubscriptionPage.routeName: (context) => SubscriptionPage(),
   CalendarAddEventPage.routeName: (context) => CalendarAddEventPage(),
   CalendarPage.routeName: (context) => CalendarPage(),
+  PicturePage.routeName: (context) => PicturePage(),
   // NavigationPage.routeName: (context) => NavigationPage(),
 };
