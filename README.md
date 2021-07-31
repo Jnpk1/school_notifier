@@ -1,19 +1,21 @@
-# Academic Advisor 
+# Final
 
 
-Git Clone: `https://github.com/nalarkin/school_notifier.git`
+Git Clone: `https://github.com/Jnpk1/school_notifier.git`
 
-link to website: `https://github.com/nalarkin/school_notifier`
 
 ## Goal of this project
 
- The goal of this mobile application was to establish a more direct mode of communication between parents and teachers. The means of communication include: a chatroom for teacher and parents communication, teacher notification of upcoming assignments pertaining to their children's class, notifications of upcoming school events and any extra-curricular their child may be included within. 
+ -Add a photo gateway to post pictures of assignments and graded assignments
+ 
+Once the application is loaded and on the home screen, click on the "Teacher Page" button located at the bottom of the list. Once selected, a calendar page will appear with a button located at the bottom right of the screen labeled, "Add Picture".
 
-## Contributors / Authors:
+## Author: 
+ - James Park
 
-* Nathan Larkin
-* Drew Hartman
-* James Park
+## Implementation:
+ - added firebase_storage: ^10.0.1 to pubspec.yaml
+ - added example images to assets folder 
 
 ## How to run the App:
 
@@ -36,9 +38,6 @@ link to website: `https://github.com/nalarkin/school_notifier`
 * Android SDK >= 21
 * compatible on Android and iOS
 
-
-
-## Areas of Improvement
 
 
 ## Troubleshooting issues
