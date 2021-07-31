@@ -8,7 +8,7 @@ Git Clone: `https://github.com/Jnpk1/school_notifier.git`
 
  -Add a photo gateway to post pictures of assignments and graded assignments
  
-Once the application is loaded and on the home screen, click on the "Teacher Page" button located at the bottom of the list. Once selected, a calendar page will appear with a button located at the bottom right of the screen labeled, "Add Picture".
+Once the app is loaded, the user should be taken directly to the Home page where there will be a list of buttons for selection. Click on the "Teacher Page" button located at the bottom of the list and this will take the user to a calendar page, with a button located at the bottom right of the screen labeled, "Add Picture". 
 
 ## Author: 
  - James Park
